@@ -1,3 +1,7 @@
+[![codecov](https://codecov.io/gh/MicheleBaldisseri/react-project-test/branch/main/graph/badge.svg?token=BT6QT31O4L)](https://codecov.io/gh/MicheleBaldisseri/react-project-test)
+![CI/CD](https://github.com/MicheleBaldisseri/react-project-test/workflows/CI/CD/badge.svg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
